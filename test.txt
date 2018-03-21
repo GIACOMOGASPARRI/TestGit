@@ -1,0 +1,3 @@
+Git è un software di controllo versione distribuito utilizzabile da interfaccia a riga di comando, creato da Linus Torvalds nel 2005.
+La sua progettazione si ispirò a strumenti (allora proprietari) analoghi come BitKeeper e Monotone.
+Git (che nello slang americano significa idiota[1]) nacque per essere un semplice strumento per facilitare lo sviluppo del kernel Linux ed è diventato uno degli strumenti di controllo versione più diffusi.
