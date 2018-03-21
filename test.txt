@@ -1,3 +1,7 @@
 Git è un software di controllo versione distribuito utilizzabile da interfaccia a riga di comando, creato da Linus Torvalds nel 2005.
 La sua progettazione si ispirò a strumenti (allora proprietari) analoghi come BitKeeper e Monotone.
 Git (che nello slang americano significa idiota[1]) nacque per essere un semplice strumento per facilitare lo sviluppo del kernel Linux ed è diventato uno degli strumenti di controllo versione più diffusi.
+
+Lo sviluppo di Git è iniziato dopo che molti sviluppatori del kernel di Linux sono stati costretti ad abbandonare l'accesso al codice sorgente tramite il sistema proprietario BitKeeper. La possibilità di utilizzare BitKeeper gratuitamente era stata ritirata dal detentore dei diritti d'autore Larry McVoy dopo avere sostenuto che Andrew Tridgell aveva effettuato il reverse engineering dei protocolli.
+
+Alla conferenza Linux.Conf.Au del 2005, Tridgell dimostrò nel suo intervento che il procedimento di reverse engineering che aveva usato era semplicemente collegarsi con telnet alla porta appropriata di un server Bitkeeper e digitare "help".
